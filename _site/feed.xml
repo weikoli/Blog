@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T14:34:37+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">your awesome title</title><subtitle>your web description</subtitle><author><name>true</name></author><entry><title type="html">NCTU+活動吧網站</title><link href="http://localhost:4000/2020/06/02/NCTUactivity.html" rel="alternate" type="text/html" title="NCTU+活動吧網站" /><published>2020-06-02T00:00:00+08:00</published><updated>2020-06-02T00:00:00+08:00</updated><id>http://localhost:4000/2020/06/02/NCTUactivity</id><content type="html" xml:base="http://localhost:4000/2020/06/02/NCTUactivity.html">&lt;h3 id=&quot;類競品分析&quot;&gt;類競品分析&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T15:24:21+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">your awesome title</title><subtitle>your web description</subtitle><author><name>true</name></author><entry><title type="html">NCTU+活動吧網站</title><link href="http://localhost:4000/2020/06/02/NCTUactivity.html" rel="alternate" type="text/html" title="NCTU+活動吧網站" /><published>2020-06-02T00:00:00+08:00</published><updated>2020-06-02T00:00:00+08:00</updated><id>http://localhost:4000/2020/06/02/NCTUactivity</id><content type="html" xml:base="http://localhost:4000/2020/06/02/NCTUactivity.html">&lt;h3 id=&quot;類競品分析&quot;&gt;類競品分析&lt;/h3&gt;
 
 &lt;p&gt;透過競品分析，可以對發佈活動相關網頁有更深入的了解，進而對在做NCTU+活動吧網頁重新設計時，能有更深入地探討面向，也納入我們在訪談問題時的考量依據。
 (分析標準為小組討論而制定，分析結果也為小組討論而得的結果)&lt;/p&gt;
@@ -46,7 +46,7 @@
 
 &lt;p&gt;&lt;strong&gt;親合圖完整圖示&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;C:\Users\USER\Pictures\Camera Roll\PIC\UX\NCTU+\活動吧\20200304_IMG_6595.JPG&quot; alt=&quot;20200304_IMG_6595&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/Affinity1.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;白紙(&lt;/strong&gt;使用者回答內容)、&lt;/p&gt;
 
@@ -54,14 +54,58 @@
 
 &lt;p&gt;&lt;strong&gt;綠色便條貼&lt;/strong&gt;為&lt;strong&gt;大範圍需求面向&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;C:\Users\USER\Pictures\Camera Roll\PIC\UX\NCTU+\活動吧\20200304_IMG_6597.JPG&quot; alt=&quot;20200304_IMG_6597&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/Affinity2.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;使用者痛點需求&quot;&gt;使用者痛點、需求&lt;/h3&gt;
 
 &lt;p&gt;透過親合圖法之後，我們能將使用者需求整理為研究發想，作為後續設計的核心宗旨，並透過使用者旅程地圖的方式確立使用者使用活動吧網頁的流程步驟及遇到的問題&lt;/p&gt;
 
 &lt;h3 id=&quot;設計線框圖&quot;&gt;設計線框圖&lt;/h3&gt;
-&lt;p&gt;目前計畫進行到線框圖(wireframe)製作，依序為網頁設計草圖及運用figma進行圖形製作。&lt;/p&gt;</content><author><name>Vivian</name></author><category term="UI/UX" /><category term="專案" /><summary type="html">類競品分析</summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2018/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2018-05-17T00:00:00+08:00</published><updated>2018-05-17T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/05/17/welcome-to-jekyll.html">&lt;!-- ---
+&lt;p&gt;目前計畫進行到線框圖(wireframe)製作，依序為網頁設計草圖及運用figma進行圖形製作。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;發想內容&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;\1.   提供使用者詳細資訊與圖片&lt;/p&gt;
+
+&lt;p&gt;\2.   使用者需要知道其他參加者的參加狀況&lt;/p&gt;
+
+&lt;p&gt;\3.   使用者注重活動時間軸呈現、分類排版等功能&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/finding.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;使用者旅程地圖&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/journey.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;設計線框圖-1&quot;&gt;設計線框圖&lt;/h3&gt;
+
+&lt;p&gt;​    目前計畫進行到線框圖(wireframe)製作，依序為網頁設計草圖及運用figma進行圖形製作。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首頁草圖繪製&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/draft1.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首頁Figma&lt;/strong&gt;&lt;strong&gt;網頁頁面繪製&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/figma1.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;收藏頁面草圖繪製&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/draft2.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;收藏頁面Figma&lt;/strong&gt;&lt;strong&gt;網頁頁面繪製&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/figma2.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;由於此項專案仍在進行階段，所以未成呈現完整專案內容，目前團隊進行到線框圖設計階段，接下來我們會經由：&lt;/p&gt;
+
+&lt;p&gt;\1.   &lt;strong&gt;「使用者測試草圖網頁頁面」&lt;/strong&gt;—確立網頁流程、文字標明、排版設計狀況，由使用者回饋進而調整設計&lt;/p&gt;
+
+&lt;p&gt;\2.   &lt;strong&gt;「設計實際網頁頁面」&lt;/strong&gt;— 動態網頁頁面呈現，包含顏色、文字、排版等都需統一並在此階段設計出真實活動吧網頁頁面&lt;/p&gt;
+
+&lt;p&gt;\3.   &lt;strong&gt;「使用者測試網頁頁面」&lt;/strong&gt;—藉由使用者測試網頁，確立網頁跳轉、內容呈現有無問題，並進而進行調整&lt;/p&gt;
+
+&lt;p&gt;\4.   &lt;strong&gt;「交予前端部門設計出實體網頁」&lt;/strong&gt;&lt;/p&gt;</content><author><name>Vivian</name></author><category term="UI/UX" /><category term="專案" /><summary type="html">類競品分析</summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2018/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2018-05-17T00:00:00+08:00</published><updated>2018-05-17T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/05/17/welcome-to-jekyll.html">&lt;!-- ---
 layout: post
 title:  &quot;人機互動 Human Computer Interaction&quot;
 date:   2020-05-31
