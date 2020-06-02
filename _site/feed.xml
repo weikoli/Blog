@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T14:34:37+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">your awesome title</title><subtitle>your web description</subtitle><author><name>true</name></author><entry><title type="html">NCTU+活動吧網站</title><link href="http://localhost:4000/2020/06/02/NCTUactivity.html" rel="alternate" type="text/html" title="NCTU+活動吧網站" /><published>2020-06-02T00:00:00+08:00</published><updated>2020-06-02T00:00:00+08:00</updated><id>http://localhost:4000/2020/06/02/NCTUactivity</id><content type="html" xml:base="http://localhost:4000/2020/06/02/NCTUactivity.html">&lt;h3 id=&quot;類競品分析&quot;&gt;類競品分析&lt;/h3&gt;
+
+&lt;p&gt;透過競品分析，可以對發佈活動相關網頁有更深入的了解，進而對在做NCTU+活動吧網頁重新設計時，能有更深入地探討面向，也納入我們在訪談問題時的考量依據。
+(分析標準為小組討論而制定，分析結果也為小組討論而得的結果)&lt;/p&gt;
+
+&lt;h3 id=&quot;訪談&quot;&gt;訪談&lt;/h3&gt;
+&lt;p&gt;我們針對不同身分的使用者(舉辦活動、參與活動)，分別進行訪談，以下是我們制定的訪綱內容參考。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;訪談大綱&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;b&gt;(一)　訪談目標&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+　　了解使用者對於活動吧的需求與期許
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(二)	研究問題&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+　　1.了解NCTU+網站活動吧頁面使用率低的原因&lt;br /&gt;
+　　2.使用者理想的活動發布、取得方式為何
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(三)	目標群眾&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+　　1.舉辦者(校園組織活動幹部)&lt;br /&gt;
+　　2.參加者(學生)
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(四)	訪談問題&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;訪談問題主要就是根據不同身分的使用者進行深度訪談，內容涵蓋：&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;舉辦者:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+　　1.使用哪些管道進行活動宣傳?為什麼使用這些管道?&lt;br /&gt;
+　　2.使用此管道的目的是?&lt;br /&gt;
+　　3.通常使用那些平台?為什麼?此平台的優缺點?&lt;br /&gt;
+　　4.實際分享近期使用經驗?過程中有無遇到困難?&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;參加者:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+　　1.平常參加活動性質、頻率&lt;br /&gt;
+　　2.透過哪些管道得知活動資訊?&lt;br /&gt;
+　　3.使用那些平台?為什麼選用這些平台?&lt;br /&gt;
+　　4.使用過程中有沒有遇到什麼困難?&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;(由於版面內容配置，並未將完整訪綱列出，以上為問題內容範例)&lt;/p&gt;
+
+&lt;h3 id=&quot;製作親合圖affinity-diagram&quot;&gt;製作親合圖(Affinity Diagram)&lt;/h3&gt;
+&lt;p&gt;透過親合圖法，我們可以根據使用者目的、需求進行分類，通常步驟會是先將目的性相同的分至一區，再將性質相近的列入更大範圍的類別之中，最後將得到「Findings發想」，發想多以抽象表述、大範圍內容，以便我們日後步驟設計時能多加發揮創意思考，解決使用者需求。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;親合圖完整圖示&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;C:\Users\USER\Pictures\Camera Roll\PIC\UX\NCTU+\活動吧\20200304_IMG_6595.JPG&quot; alt=&quot;20200304_IMG_6595&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;白紙(&lt;/strong&gt;使用者回答內容)、&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;黃色、紅色便條貼&lt;/strong&gt;為使用者&lt;strong&gt;目的、需求&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;綠色便條貼&lt;/strong&gt;為&lt;strong&gt;大範圍需求面向&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;C:\Users\USER\Pictures\Camera Roll\PIC\UX\NCTU+\活動吧\20200304_IMG_6597.JPG&quot; alt=&quot;20200304_IMG_6597&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;使用者痛點需求&quot;&gt;使用者痛點、需求&lt;/h3&gt;
+
+&lt;p&gt;透過親合圖法之後，我們能將使用者需求整理為研究發想，作為後續設計的核心宗旨，並透過使用者旅程地圖的方式確立使用者使用活動吧網頁的流程步驟及遇到的問題&lt;/p&gt;
+
+&lt;h3 id=&quot;設計線框圖&quot;&gt;設計線框圖&lt;/h3&gt;
+&lt;p&gt;目前計畫進行到線框圖(wireframe)製作，依序為網頁設計草圖及運用figma進行圖形製作。&lt;/p&gt;</content><author><name>Vivian</name></author><category term="UI/UX" /><category term="專案" /><summary type="html">類競品分析</summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2018/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2018-05-17T00:00:00+08:00</published><updated>2018-05-17T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/05/17/welcome-to-jekyll.html">&lt;!-- ---
+layout: post
+title:  &quot;人機互動 Human Computer Interaction&quot;
+date:   2020-05-31
+tags: UI/UX 專案 修課相關
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+&lt;!-- subtitle: 'Welcome to Jekyll!' --&gt;
+&lt;hr /&gt;
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/ --&amp;gt;&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>true</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
