@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T15:24:21+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">your awesome title</title><subtitle>your web description</subtitle><author><name>true</name></author><entry><title type="html">NCTU+活動吧網站</title><link href="http://localhost:4000/2020/06/02/NCTUactivity.html" rel="alternate" type="text/html" title="NCTU+活動吧網站" /><published>2020-06-02T00:00:00+08:00</published><updated>2020-06-02T00:00:00+08:00</updated><id>http://localhost:4000/2020/06/02/NCTUactivity</id><content type="html" xml:base="http://localhost:4000/2020/06/02/NCTUactivity.html">&lt;h3 id=&quot;類競品分析&quot;&gt;類競品分析&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T15:54:44+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">your awesome title</title><subtitle>your web description</subtitle><author><name>true</name></author><entry><title type="html">NCTU+活動吧網站</title><link href="http://localhost:4000/2020/06/02/NCTUactivity.html" rel="alternate" type="text/html" title="NCTU+活動吧網站" /><published>2020-06-02T00:00:00+08:00</published><updated>2020-06-02T00:00:00+08:00</updated><id>http://localhost:4000/2020/06/02/NCTUactivity</id><content type="html" xml:base="http://localhost:4000/2020/06/02/NCTUactivity.html">&lt;h3 id=&quot;類競品分析&quot;&gt;類競品分析&lt;/h3&gt;
 
 &lt;p&gt;透過競品分析，可以對發佈活動相關網頁有更深入的了解，進而對在做NCTU+活動吧網頁重新設計時，能有更深入地探討面向，也納入我們在訪談問題時的考量依據。
 (分析標準為小組討論而制定，分析結果也為小組討論而得的結果)&lt;/p&gt;
@@ -65,17 +65,23 @@
 
 &lt;p&gt;&lt;strong&gt;發想內容&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;\1.   提供使用者詳細資訊與圖片&lt;/p&gt;
-
-&lt;p&gt;\2.   使用者需要知道其他參加者的參加狀況&lt;/p&gt;
-
-&lt;p&gt;\3.   使用者注重活動時間軸呈現、分類排版等功能&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;提供使用者詳細資訊與圖片&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;使用者需要知道其他參加者的參加狀況&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;使用者注重活動時間軸呈現、分類排版等功能&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/finding.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;使用者旅程地圖&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/journey.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;2020-06-02-NCTUactivity.assets/journey-1591082970820.JPG&quot; alt=&quot;journey&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;設計線框圖-1&quot;&gt;設計線框圖&lt;/h3&gt;
 
@@ -83,47 +89,65 @@
 
 &lt;p&gt;&lt;strong&gt;首頁草圖繪製&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/draft1.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/draft1.jpg&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;首頁Figma&lt;/strong&gt;&lt;strong&gt;網頁頁面繪製&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/figma1.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/figma1.jpg&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;收藏頁面草圖繪製&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/draft2.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/draft2.jpg&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;收藏頁面Figma&lt;/strong&gt;&lt;strong&gt;網頁頁面繪製&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/figma2.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/figma2.jpg&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;由於此項專案仍在進行階段，所以未成呈現完整專案內容，目前團隊進行到線框圖設計階段，接下來我們會經由：&lt;/p&gt;
 
-&lt;p&gt;\1.   &lt;strong&gt;「使用者測試草圖網頁頁面」&lt;/strong&gt;—確立網頁流程、文字標明、排版設計狀況，由使用者回饋進而調整設計&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;「使用者測試草圖網頁頁面」&lt;/strong&gt;—確立網頁流程、文字標明、排版設計狀況，由使用者回饋進而調整設計&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;「設計實際網頁頁面」&lt;/strong&gt;— 動態網頁頁面呈現，包含顏色、文字、排版等都需統一並在此階段設計出真實活動吧網頁頁面&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;「使用者測試網頁頁面」&lt;/strong&gt;—藉由使用者測試網頁，確立網頁跳轉、內容呈現有無問題，並進而進行調整&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;「交予前端部門設計出實體網頁」&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Vivian</name></author><category term="UI/UX" /><category term="專案" /><summary type="html">類競品分析</summary></entry><entry><title type="html">人機互動 Human Computer Interaction</title><link href="http://localhost:4000/2020/05/31/HCI.html" rel="alternate" type="text/html" title="人機互動 Human Computer Interaction" /><published>2020-05-31T00:00:00+08:00</published><updated>2020-05-31T00:00:00+08:00</updated><id>http://localhost:4000/2020/05/31/HCI</id><content type="html" xml:base="http://localhost:4000/2020/05/31/HCI.html">&lt;!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-&lt;p&gt;\2.   &lt;strong&gt;「設計實際網頁頁面」&lt;/strong&gt;— 動態網頁頁面呈現，包含顏色、文字、排版等都需統一並在此階段設計出真實活動吧網頁頁面&lt;/p&gt;
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-&lt;p&gt;\3.   &lt;strong&gt;「使用者測試網頁頁面」&lt;/strong&gt;—藉由使用者測試網頁，確立網頁跳轉、內容呈現有無問題，並進而進行調整&lt;/p&gt;
+Jekyll also offers powerful support for code snippets:
 
-&lt;p&gt;\4.   &lt;strong&gt;「交予前端部門設計出實體網頁」&lt;/strong&gt;&lt;/p&gt;</content><author><name>Vivian</name></author><category term="UI/UX" /><category term="專案" /><summary type="html">類競品分析</summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2018/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2018-05-17T00:00:00+08:00</published><updated>2018-05-17T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/05/17/welcome-to-jekyll.html">&lt;!-- ---
-layout: post
-title:  &quot;人機互動 Human Computer Interaction&quot;
-date:   2020-05-31
-tags: UI/UX 專案 修課相關
-color: rgb(255,90,90)
-cover: '../assets/test.png'
-&lt;!-- subtitle: 'Welcome to Jekyll!' --&gt;
-&lt;hr /&gt;
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+ --&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/ --&amp;gt;&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>true</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/--&gt;
+
+&lt;h3 id=&quot;修課資訊&quot;&gt;修課資訊&lt;/h3&gt;
+
+&lt;p&gt;人機互動Human Computer Interaction&lt;/p&gt;
+
+&lt;p&gt;曾元琦教授&lt;/p&gt;
+
+&lt;h3 id=&quot;授課方式心得&quot;&gt;授課方式&amp;amp;心得&lt;/h3&gt;
+
+&lt;p&gt;老師每堂課會用ppt上課，有時候會請講師來演講，通常都是UI/UX領域的前輩，一次期中，期末以小組運用上課所學的概念，自行run一項專案，老師會在課堂上提供時間讓我們跟他討論，因為我們這組大部分都有做過UX專案經驗，所以我們在執行步驟上都蠻快上手的，但如果是對於都沒有接觸過UI/UX專案的人，純粹透過上課講義內容就要實際自己跑專案，個人覺得有點難度。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;期末專案&quot;&gt;期末專案&lt;/h3&gt;</content><author><name>true</name></author><category term="UI/UX" /><category term="專案" /><category term="修課相關" /><summary type="html"></summary></entry></feed>

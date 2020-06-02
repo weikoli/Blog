@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'NCTU+活動吧網站'
-subtitle: 'post subtitle'
+subtitle: '201909~present'
 date: 2020-06-02
 author: Vivian
-color: rgb(255,210,32)
+color: rgb(55, 117, 179)
 cover: 'https://images.unsplash.com/photo-1501604914713-3decf20bf804?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80'
 tags: UI/UX 專案
 ---
@@ -85,18 +85,20 @@ tags: UI/UX 專案
 
 **發想內容**
 
-\1.   提供使用者詳細資訊與圖片
+1. 提供使用者詳細資訊與圖片
 
-\2.   使用者需要知道其他參加者的參加狀況
+2. 使用者需要知道其他參加者的參加狀況
 
-\3.   使用者注重活動時間軸呈現、分類排版等功能
+3. 使用者注重活動時間軸呈現、分類排版等功能
 
 
 <img src="https://weiaquarius.github.io/Blog/assets/img/finding.JPG" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
 
 **使用者旅程地圖**
 
-<img src="https://weiaquarius.github.io/Blog/assets/img/journey.JPG" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
+
+
+![journey](2020-06-02-NCTUactivity.assets/journey-1591082970820.JPG)
 
 ### 設計線框圖
 
@@ -104,30 +106,30 @@ tags: UI/UX 專案
 
 **首頁草圖繪製**
 
-<img src="https://weiaquarius.github.io/Blog/assets/img/draft1.JPG" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
+<img src="https://weiaquarius.github.io/Blog/assets/img/draft1.jpg" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
 
 **首頁Figma****網頁頁面繪製**
 
-<img src="https://weiaquarius.github.io/Blog/assets/img/figma1.JPG" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
+<img src="https://weiaquarius.github.io/Blog/assets/img/figma1.jpg" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
 
 
 
 **收藏頁面草圖繪製**
 
-<img src="https://weiaquarius.github.io/Blog/assets/img/draft2.JPG" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
+<img src="https://weiaquarius.github.io/Blog/assets/img/draft2.jpg" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
 
 **收藏頁面Figma****網頁頁面繪製**
 
-<img src="https://weiaquarius.github.io/Blog/assets/img/figma2.JPG" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
+<img src="https://weiaquarius.github.io/Blog/assets/img/figma2.jpg" class="responsive" width="600" height="400" style="max-width: 100%;  height: auto;">
 
 由於此項專案仍在進行階段，所以未成呈現完整專案內容，目前團隊進行到線框圖設計階段，接下來我們會經由：
 
-\1.   **「使用者測試草圖網頁頁面」**—確立網頁流程、文字標明、排版設計狀況，由使用者回饋進而調整設計
+1. **「使用者測試草圖網頁頁面」**—確立網頁流程、文字標明、排版設計狀況，由使用者回饋進而調整設計
 
-\2.   **「設計實際網頁頁面」**— 動態網頁頁面呈現，包含顏色、文字、排版等都需統一並在此階段設計出真實活動吧網頁頁面
+2. **「設計實際網頁頁面」**— 動態網頁頁面呈現，包含顏色、文字、排版等都需統一並在此階段設計出真實活動吧網頁頁面
 
-\3.   **「使用者測試網頁頁面」**—藉由使用者測試網頁，確立網頁跳轉、內容呈現有無問題，並進而進行調整
+3. **「使用者測試網頁頁面」**—藉由使用者測試網頁，確立網頁跳轉、內容呈現有無問題，並進而進行調整
 
-\4.   **「交予前端部門設計出實體網頁」**
+4. **「交予前端部門設計出實體網頁」**
 
  
