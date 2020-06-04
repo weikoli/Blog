@@ -1,4 +1,289 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T15:54:44+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">your awesome title</title><subtitle>your web description</subtitle><author><name>true</name></author><entry><title type="html">NCTU+活動吧網站</title><link href="http://localhost:4000/2020/06/02/NCTUactivity.html" rel="alternate" type="text/html" title="NCTU+活動吧網站" /><published>2020-06-02T00:00:00+08:00</published><updated>2020-06-02T00:00:00+08:00</updated><id>http://localhost:4000/2020/06/02/NCTUactivity</id><content type="html" xml:base="http://localhost:4000/2020/06/02/NCTUactivity.html">&lt;h3 id=&quot;類競品分析&quot;&gt;類競品分析&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T16:38:40+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">your awesome title</title><subtitle>your web description</subtitle><author><name>true</name></author><entry><title type="html">Nctuactivity</title><link href="http://localhost:4000/2020/06/02/NCTUactivity.html" rel="alternate" type="text/html" title="Nctuactivity" /><published>2020-06-02T00:00:00+08:00</published><updated>2020-06-02T00:00:00+08:00</updated><id>http://localhost:4000/2020/06/02/NCTUactivity</id><content type="html" xml:base="http://localhost:4000/2020/06/02/NCTUactivity.html">&lt;!-- ---
+layout: post
+title: 'NCTU+活動吧網站'
+subtitle: '201909~present'
+date: 2020-06-02
+author: Vivian
+color: rgb(55, 117, 179)
+cover: 'https://images.unsplash.com/photo-1501604914713-3decf20bf804?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80'
+tags: UI/UX 專案
+---
+
+
+
+### 類競品分析
+
+透過競品分析，可以對發佈活動相關網頁有更深入的了解，進而對在做NCTU+活動吧網頁重新設計時，能有更深入地探討面向，也納入我們在訪談問題時的考量依據。
+(分析標準為小組討論而制定，分析結果也為小組討論而得的結果)
+
+
+### 訪談
+我們針對不同身分的使用者(舉辦活動、參與活動)，分別進行訪談，以下是我們制定的訪綱內容參考。
+&gt;訪談大綱
+
+&lt;b&gt;(一)　訪談目標&lt;/b&gt;
+&lt;p&gt;
+　　了解使用者對於活動吧的需求與期許
+&lt;/p&gt;
+&lt;b&gt;(二)	研究問題&lt;/b&gt;
+&lt;p&gt;
+　　1.了解NCTU+網站活動吧頁面使用率低的原因&lt;br&gt;
+　　2.使用者理想的活動發布、取得方式為何
+&lt;/p&gt;
+&lt;b&gt;(三)	目標群眾&lt;/b&gt;
+&lt;p&gt;
+　　1.舉辦者(校園組織活動幹部)&lt;br&gt;
+　　2.參加者(學生)
+&lt;/p&gt;
+&lt;b&gt;(四)	訪談問題&lt;/b&gt;
+&lt;p&gt;訪談問題主要就是根據不同身分的使用者進行深度訪談，內容涵蓋：&lt;/p&gt;
+&lt;b&gt;舉辦者:&lt;/b&gt;
+&lt;p&gt;
+　　1.使用哪些管道進行活動宣傳?為什麼使用這些管道?&lt;br&gt;
+　　2.使用此管道的目的是?&lt;br&gt;
+　　3.通常使用那些平台?為什麼?此平台的優缺點?&lt;br&gt;
+　　4.實際分享近期使用經驗?過程中有無遇到困難?&lt;br&gt;
+&lt;/p&gt;
+&lt;b&gt;參加者:&lt;/b&gt;
+&lt;p&gt;
+　　1.平常參加活動性質、頻率&lt;br&gt;
+　　2.透過哪些管道得知活動資訊?&lt;br&gt;
+　　3.使用那些平台?為什麼選用這些平台?&lt;br&gt;
+　　4.使用過程中有沒有遇到什麼困難?&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;(由於版面內容配置，並未將完整訪綱列出，以上為問題內容範例)&lt;/p&gt;
+
+
+### 製作親合圖(Affinity Diagram)
+&lt;p&gt;透過親合圖法，我們可以根據使用者目的、需求進行分類，通常步驟會是先將目的性相同的分至一區，再將性質相近的列入更大範圍的類別之中，最後將得到「Findings發想」，發想多以抽象表述、大範圍內容，以便我們日後步驟設計時能多加發揮創意思考，解決使用者需求。&lt;/p&gt;
+
+**親合圖完整圖示**
+
+
+
+&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/Affinity1.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot;&gt;
+
+
+
+**白紙(**使用者回答內容)、
+
+ **黃色、紅色便條貼**為使用者**目的、需求**
+
+   **綠色便條貼**為**大範圍需求面向**
+
+
+&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/Affinity2.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot;&gt;
+
+### 使用者痛點、需求
+
+透過親合圖法之後，我們能將使用者需求整理為研究發想，作為後續設計的核心宗旨，並透過使用者旅程地圖的方式確立使用者使用活動吧網頁的流程步驟及遇到的問題
+
+
+
+### 設計線框圖
+目前計畫進行到線框圖(wireframe)製作，依序為網頁設計草圖及運用figma進行圖形製作。
+
+**發想內容**
+
+1. 提供使用者詳細資訊與圖片
+
+2. 使用者需要知道其他參加者的參加狀況
+
+3. 使用者注重活動時間軸呈現、分類排版等功能
+
+
+&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/finding.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot;&gt;
+
+**使用者旅程地圖**
+
+
+
+&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/journey.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot;&gt;
+
+### 設計線框圖
+
+​    目前計畫進行到線框圖(wireframe)製作，依序為網頁設計草圖及運用figma進行圖形製作。
+
+**首頁草圖繪製**
+
+&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/draft1.jpg&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot;&gt;
+
+**首頁Figma****網頁頁面繪製**
+
+&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/figma1.jpg&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot;&gt;
+
+
+
+**收藏頁面草圖繪製**
+
+&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/draft2.jpg&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot;&gt;
+
+**收藏頁面Figma****網頁頁面繪製**
+
+&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/figma2.jpg&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot;&gt;
+
+由於此項專案仍在進行階段，所以未成呈現完整專案內容，目前團隊進行到線框圖設計階段，接下來我們會經由：
+
+1. **「使用者測試草圖網頁頁面」**—確立網頁流程、文字標明、排版設計狀況，由使用者回饋進而調整設計
+
+2. **「設計實際網頁頁面」**— 動態網頁頁面呈現，包含顏色、文字、排版等都需統一並在此階段設計出真實活動吧網頁頁面
+
+3. **「使用者測試網頁頁面」**—藉由使用者測試網頁，確立網頁跳轉、內容呈現有無問題，並進而進行調整
+
+4. **「交予前端部門設計出實體網頁」**
+
+  --&gt;
+&lt;p&gt;&lt;!-- 博文的布局-Layout --&gt;
+&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;!-- 引入head标签 --&gt;
+&lt;meta charset=&quot;UTF-8&quot; /&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-sclable=0&quot; /&gt;
+&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;ie=edge&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;your web description&quot; /&gt;
+&lt;meta name=&quot;keywords&quot; content=&quot;your web keywords, another keywords&quot; /&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style.css&quot; /&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/media.css&quot; /&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/animate.min.css&quot; /&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/pygments/pygments_default.css&quot; /&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/github-markdown.css&quot; /&gt;
+&lt;!-- SNS-icon --&gt;
+&lt;script src=&quot;//at.alicdn.com/t/font_856428_y9z6nq7zf5.js&quot;&gt;&lt;/script&gt;
+&lt;!-- share.css --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/share.min.css&quot; /&gt;
+&lt;!-- font --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/font.css&quot; /&gt;
+&lt;!-- &lt;link href=&quot;https://fonts.googleapis.com/css?family=Kaushan+Script|Pacifico|Ubuntu|Roboto+Mono|Source+Sans+Pro&quot; rel=&quot;stylesheet&quot;&gt; --&gt;
+
+&lt;!-- Favicon --&gt;
+&lt;link href=&quot;/assets/profile.jpeg&quot; rel=&quot;shortcut icon&quot; /&gt;
+&lt;link href=&quot;/assets/profile.jpeg&quot; rel=&quot;apple-touch-icon-precomposed&quot; /&gt;
+&lt;!-- Android Lolipop Theme Color --&gt;
+&lt;!-- &lt;meta name=&quot;theme-color&quot; content=&quot;#1464FB&quot;&gt; --&gt;
+&lt;title&gt;NCTU+活動吧網站&lt;/title&gt;
+&lt;!-- 百度统计 --&gt;
+
+&lt;script&gt;
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement(&quot;script&quot;);
+  hm.src = &quot;https://hm.baidu.com/hm.js?&quot;;
+  var s = document.getElementsByTagName(&quot;script&quot;)[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+&lt;/script&gt;
+
+&lt;!-- 谷歌分析 --&gt;
+
+
+&lt;!-- Android Lolipop Theme Color --&gt;
+&lt;meta name=&quot;theme-color&quot; content=&quot; rgb(55, 117, 179) &quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!-- 顶部锚点 --&gt;
+&lt;a id=&quot;htmlup&quot; name=&quot;htmlup&quot;&gt;&lt;/a&gt;
+&lt;!-- 引入博文顶部选项 --&gt;
+
+&lt;header id=&quot;post-header&quot; style=&quot;background-color:rgb(55, 117, 179);&quot;&gt;
+  &lt;div class=&quot;top-center&quot;&gt;
+      &lt;div class=&quot;logo&quot;&gt;
+          &lt;a href=&quot;/&quot; title=&quot;my awesome webtitle&quot; style=&quot;color: white;&quot;&gt;your awesome webtitle&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;nav class=&quot;top-nav&quot;&gt;
+          &lt;ul&gt;
+              
+            &lt;li&gt;&lt;a href=&quot;/&quot;&gt;首頁&lt;/a&gt;&lt;/li&gt;
+              
+            &lt;li&gt;&lt;a href=&quot;/tags.html&quot;&gt;標籤&lt;/a&gt;&lt;/li&gt;
+          
+            &lt;li&gt;&lt;a href=&quot;/timeline.html&quot;&gt;時間線&lt;/a&gt;&lt;/li&gt;
+          
+            &lt;li&gt;&lt;a href=&quot;/about.html&quot;&gt;關於我&lt;/a&gt;&lt;/li&gt;
+              
+          &lt;/ul&gt;
+      &lt;/nav&gt;
+      &lt;div id=&quot;top-boot&quot;&gt;
+        &lt;a href=&quot;javascript:;&quot; id=&quot;boot1&quot; style=&quot;display:block;&quot; onclick=&quot;document.getElementById('boot-area').style.display='block';document.getElementById('boot1').style.display='none';document.getElementById('boot2').style.display='block';&quot;&gt;&lt;img src=&quot;/assets/boot_white.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+        &lt;a href=&quot;javascript:;&quot; id=&quot;boot2&quot; style=&quot;display: none;&quot; onclick=&quot;document.getElementById('boot-area').style.display='none';document.getElementById('boot1').style.display='block';document.getElementById('boot2').style.display='none';&quot;&gt;&lt;img src=&quot;/assets/boot_white.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;/header&gt;
+
+
+&lt;!-- 引入移动下拉选项 --&gt;
+&lt;div id=&quot;boot-area&quot;&gt;
+    &lt;ul&gt;
+        
+      &lt;a href=&quot;/&quot;&gt;&lt;li&gt;首頁&lt;/li&gt;&lt;/a&gt;
+        
+      &lt;a href=&quot;/tags.html&quot;&gt;&lt;li&gt;標籤&lt;/li&gt;&lt;/a&gt;
+    
+      &lt;a href=&quot;/timeline.html&quot;&gt;&lt;li&gt;時間線&lt;/li&gt;&lt;/a&gt;
+    
+      &lt;a href=&quot;/about.html&quot;&gt;&lt;li&gt;關於我&lt;/li&gt;&lt;/a&gt;
+        
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;!-- 引入博文顶部样式 --&gt;
+&lt;!-- 版本一 垃圾 --&gt;
+&lt;!-- &lt;div class=&quot;wow fadeIn top&quot; data-wow-duration=&quot;3.5s&quot; &gt;
+    &lt;span class=&quot;wow fadeInUp&quot; data-wow-delay=&quot;0.2s&quot;&gt;NCTU+活動吧網站&lt;/span&gt;
+    &lt;span class=&quot;wow fadeInUp&quot; data-wow-delay=&quot;0.4s&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;wow fadeInUp&quot; data-wow-delay=&quot;0.4s&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;wow fadeInUp&quot; data-wow-delay=&quot;0.6s&quot;&gt;作者&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Vivian&lt;/span&gt;
+&lt;/div&gt; --&gt;
+
+&lt;!-- 版本二 可切换页面 --&gt;
+
+&lt;div class=&quot;post-top&quot; style=&quot;background-color:rgb(55, 117, 179);&quot;&gt;
+  &lt;!-- 页面宽度大于800px --&gt;
+  &lt;div class=&quot;left-area&quot;&gt;
+    
+      &lt;a href=&quot;javascript:;&quot; class=&quot;btn bounceInLeft animated&quot; onmouseover=&quot;showLeft();this.style.color='rgb(55, 117, 179)';&quot; onmouseout=&quot;goneLeft();this.style.color='rgba(0,0,0,.2)';&quot;&gt;&amp;lt;&lt;/a&gt;
+      &lt;div id=&quot;left-tab&quot; style=&quot;display:none;&quot;&gt;&lt;span class=&quot;left-san&quot;&gt;&lt;/span&gt;&lt;span class=&quot;left-main&quot; style=&quot;color:rgb(55, 117, 179);&quot;&gt;&lt;sapn class=&quot;main&quot;&gt;没有上一页咯&lt;/sapn&gt;&lt;/span&gt;&lt;/div&gt;
+    
+  &lt;/div&gt;
+  &lt;div class=&quot;post-titlearea&quot;&gt;
+    &lt;span class=&quot;wow fadeInUp&quot; data-wow-delay=&quot;0.2s&quot;&gt;NCTU+活動吧網站&lt;/span&gt;
+    &lt;!-- &lt;span class=&quot;wow fadeInUp&quot; data-wow-delay=&quot;0.4s&quot;&gt;&lt;/span&gt; --&gt;
+    &lt;!-- &lt;span class=&quot;wow fadeInUp&quot; data-wow-delay=&quot;0.4s&quot;&gt;&lt;/span&gt; --&gt;
+    &lt;!-- &lt;span class=&quot;wow fadeInUp&quot; data-wow-delay=&quot;0.6s&quot;&gt;作者&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Vivian&lt;/span&gt; --&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;right-area&quot;&gt;
+    
+      &lt;a href=&quot;/2020/05/31/HCI.html&quot; class=&quot;btn bounceInRight self-animated&quot; onmouseover=&quot;showRight();this.style.color='rgb(55, 117, 179)';&quot; onmouseout=&quot;goneRight();this.style.color='rgba(0,0,0,.2)';&quot;&gt;&amp;gt;&lt;/a&gt;
+      &lt;div id=&quot;right-tab&quot; style=&quot;display:none;&quot;&gt;&lt;span class=&quot;right-san&quot;&gt;&lt;/span&gt;&lt;span class=&quot;right-main&quot; style=&quot;color:rgb(55, 117, 179);&quot;&gt;&lt;sapn class=&quot;main&quot;&gt;人機互動 Human Computer Interaction&lt;/sapn&gt;&lt;/span&gt;&lt;/div&gt;
+    
+  &lt;/div&gt;
+
+  &lt;!-- 页面宽度小于800px --&gt;
+  &lt;div class=&quot;post-changearea&quot;&gt;
+    
+      &lt;a href=&quot;javascript:;&quot; class=&quot;leftchange&quot; style=&quot;border-right: 1px solid rgb(55, 117, 179);border-bottom: 2px solid rgb(55, 117, 179);&quot;&gt;&lt;span&gt;&lt;br /&gt;没有上一篇咯&lt;/span&gt;&lt;/a&gt;
+    
+    
+      &lt;a href=&quot;/2020/05/31/HCI.html&quot; class=&quot;rightchange&quot; style=&quot;border-left: 1px solid rgb(55, 117, 179);border-bottom: 2px solid rgb(55, 117, 179);&quot;&gt;&lt;span&gt;下一篇&lt;br /&gt;&lt;br /&gt;人機互動 Human Computer Interaction&lt;/span&gt;&lt;/a&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;markdown-body fadeInUp animated&quot;&gt;
+
+  
+    
+      &lt;div class=&quot;postpage-subtitle&quot; style=&quot;border-left: 8px solid rgb(55, 117, 179); border-right: 8px solid rgb(55, 117, 179)&quot;&gt;
+        201909~present
+      &lt;/div&gt;
+    
+  
+
+  &lt;!-- 文章内容 --&gt;
+  &lt;h3 id=&quot;類競品分析&quot;&gt;類競品分析&lt;/h3&gt;
 
 &lt;p&gt;透過競品分析，可以對發佈活動相關網頁有更深入的了解，進而對在做NCTU+活動吧網頁重新設計時，能有更深入地探討面向，也納入我們在訪談問題時的考量依據。
 (分析標準為小組討論而制定，分析結果也為小組討論而得的結果)&lt;/p&gt;
@@ -81,7 +366,7 @@
 
 &lt;p&gt;&lt;strong&gt;使用者旅程地圖&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;2020-06-02-NCTUactivity.assets/journey-1591082970820.JPG&quot; alt=&quot;journey&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://weiaquarius.github.io/Blog/assets/img/journey.JPG&quot; class=&quot;responsive&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%;  height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;設計線框圖-1&quot;&gt;設計線框圖&lt;/h3&gt;
 
@@ -118,7 +403,132 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;「交予前端部門設計出實體網頁」&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Vivian</name></author><category term="UI/UX" /><category term="專案" /><summary type="html">類競品分析</summary></entry><entry><title type="html">人機互動 Human Computer Interaction</title><link href="http://localhost:4000/2020/05/31/HCI.html" rel="alternate" type="text/html" title="人機互動 Human Computer Interaction" /><published>2020-05-31T00:00:00+08:00</published><updated>2020-05-31T00:00:00+08:00</updated><id>http://localhost:4000/2020/05/31/HCI</id><content type="html" xml:base="http://localhost:4000/2020/05/31/HCI.html">&lt;!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+&lt;/ol&gt;
+
+
+  &lt;!-- 引入share模块 --&gt;
+  
+  &lt;div class=&quot;social-share-wrapper&quot;&gt;
+    &lt;div class=&quot;social-share&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;!-- share.js --&gt;
+&lt;script src=&quot;/assets/js/social-share.min.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  socialShare('.social-share', {
+    sites: [
+      
+        'qq'
+        ,
+        
+      
+        'wechat'
+        ,
+        
+      
+        'weibo'
+        ,
+        
+      
+        'twitter'
+        ,
+        
+      
+        'facebook'
+        
+      
+    ],
+    wechatQrcodeTitle: &quot;分享到微信朋友圈&quot;,
+    wechatQrcodeHelper: '期待在朋友圈见到这篇文章'
+  });
+&lt;/script&gt;
+
+&lt;/div&gt;
+
+&lt;!-- 底部锚点 --&gt;
+&lt;a id=&quot;htmldown&quot; name=&quot;htmldown&quot;&gt;&lt;/a&gt;
+&lt;!-- 引入评论模块 --&gt;
+
+
+
+    &lt;section class=&quot;post-footer-item comment&quot;&gt;
+      &lt;div id=&quot;lv-container&quot; data-id=&quot;city&quot; data-uid=&quot;MTAyMC8zNDI2OS8xMDgwNg==&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;!-- 来必力City版安装代码 --&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+       (function(d, s) {
+           var j, e = d.getElementsByTagName(s)[0];
+
+           if (typeof LivereTower === 'function') { return; }
+
+           j = d.createElement(s);
+           j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+           j.async = true;
+
+           e.parentNode.insertBefore(j, e);
+       })(document, 'script');
+    &lt;/script&gt;
+    &lt;noscript&gt;为正常使用来必力评论功能请激活JavaScript&lt;/noscript&gt;
+    &lt;!-- City版安装代码已完成 --&gt;
+
+
+
+
+
+&lt;!-- 引入goto模块 --&gt;
+&lt;div class=&quot;bounceInRight animated go&quot;&gt;
+  &lt;a title=&quot;顶部切换页面&quot; class=&quot;gototop&quot; href=&quot;#htmlup&quot; target=&quot;_self&quot;&gt;
+    &lt;div class=&quot;box&quot; style=&quot;font-family:'ffad_matroregular';&quot;&gt;
+        Top
+    &lt;/div&gt;
+  &lt;/a&gt;
+  &lt;a title=&quot;底部有livere评论哦&quot; class=&quot;gotobottom&quot; href=&quot;#htmldown&quot; target=&quot;_self&quot;&gt;
+    &lt;div class=&quot;box&quot; style=&quot;font-family:'ffad_matroregular';&quot;&gt;
+        Foot
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;!-- 引入页面底部模块 --&gt;
+&lt;footer id=&quot;bottom&quot;&gt;
+  &lt;br /&gt;
+  &lt;span&gt;your awesome title ©
+  
+  
+    2018
+    -
+  
+  2020
+  &lt;br /&gt;
+  Powered by &lt;a href=&quot;https://www.jekyll.com.cn/&quot;&gt;Jekyll&lt;/a&gt; | &lt;a href=&quot;https://github.com/xukimseven/HardCandy-Jekyll&quot;&gt;HardCandy-Jekyll&lt;/a&gt;&lt;/span&gt;
+&lt;/footer&gt;
+
+
+&lt;!-- 引用wow.js的动画效果 --&gt;
+&lt;script src=&quot;/assets/js/wow.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+    var wow = new WOW({
+        boxClass: 'wow',
+        animateClass: 'animated',
+        // offset: 600,
+        mobile: true,
+        live: true
+    });
+    wow.init();
+&lt;/script&gt;
+&lt;!-- 页面刷新回到顶部 --&gt;
+&lt;script&gt;
+    window.onbeforeunload = function(){
+        //刷新后页面自动回到顶部
+        document.documentElement.scrollTop = 0;  //ie下
+        document.body.scrollTop = 0;  //非ie
+    }
+&lt;/script&gt;
+&lt;script src=&quot;/assets/js/main.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>true</name></author><summary type="html">&amp;lt;!– — layout: post title: ‘NCTU+活動吧網站’ subtitle: ‘201909~present’ date: 2020-06-02 author: Vivian color: rgb(55, 117, 179) cover: ‘https://images.unsplash.com/photo-1501604914713-3decf20bf804?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1050&amp;amp;q=80’ tags: UI/UX 專案 —</summary></entry><entry><title type="html">人機互動 Human Computer Interaction</title><link href="http://localhost:4000/2020/05/31/HCI.html" rel="alternate" type="text/html" title="人機互動 Human Computer Interaction" /><published>2020-05-31T00:00:00+08:00</published><updated>2020-05-31T00:00:00+08:00</updated><id>http://localhost:4000/2020/05/31/HCI</id><content type="html" xml:base="http://localhost:4000/2020/05/31/HCI.html">&lt;!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 

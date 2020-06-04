@@ -1,3 +1,21 @@
+<!-- ---
+layout: default
+title: your awesome title
+page-title: your awesome page-title.
+home-title: your awesome home-title.
+description: description
+---
+
+{% include header.html %}
+{% include boot.html %}
+<main>
+    {% include title.html %}
+    <ul class="post-list">
+      {% include posts_paginator.html %}
+    </ul>
+</main>
+{% include pageNav.html %}
+{% include footer.html %} -->
 <!-- 首页及其他页面的布局-Layout -->
 <!DOCTYPE html>
 <html>
@@ -26,7 +44,7 @@
 <link href="/assets/profile.jpeg" rel="apple-touch-icon-precomposed" />
 <!-- Android Lolipop Theme Color -->
 <!-- <meta name="theme-color" content="#1464FB"> -->
-<title>your awesome title</title>
+<title>Vivian Lee</title>
 <!-- 百度统计 -->
 
 <script>
@@ -48,20 +66,20 @@ var _hmt = _hmt || [];
 <header id="index-header">
   <div class="top-center">
       <div class="logo">
-          <a href="/" title="my awesome webtitle">your awesome webtitle</a>
+          <a href="/" title="my awesome webtitle">Vivian Lee</a>
       </div>
       <nav class="top-nav">
           <ul>
               
-                <li><a href="/">首页</a></li>
+            <li><a href="/">首頁</a></li>
               
-                <li><a href="/tags.html">标签</a></li>
+            <li><a href="/tags.html">標籤</a></li>
+          
+            <li><a href="/timeline.html">時間線</a></li>
+          
+            <li><a href="/about.html">關於我</a></li>
               
-                <li><a href="/timeline.html">时间线</a></li>
-              
-                <li><a href="/about.html">关于博主</a></li>
-              
-                <li><a href="/friendLink.html">友情链接</a></li>
+            <!-- <li><a href="/friendLink.html">友情链接</a></li> -->
               
           </ul>
       </nav>
@@ -76,24 +94,24 @@ var _hmt = _hmt || [];
 <div id="boot-area">
     <ul>
         
-          <a href="/"><li>首页</li></a>
+        <a href="/"><li>首頁</li></a>
         
-          <a href="/tags.html"><li>标签</li></a>
-        
-          <a href="/timeline.html"><li>时间线</li></a>
-        
-          <a href="/about.html"><li>关于博主</li></a>
-        
-          <a href="/friendLink.html"><li>友情链接</li></a>
+        <a href="/tags.html"><li>標籤</li></a>
+      
+        <a href="/timeline.html"><li>時間線</li></a>
+      
+        <a href="/about.html"><li>關於我</li></a>
+      
+        <!-- <a href="/friendLink.html"><li>友情链接</li></a> -->
         
     </ul>
 </div>
 
 <main>
     <div class="wow fadeIn top" data-wow-duration="3.5s" >
-    <span class="wow fadeInUp" data-wow-delay="0.2s">your awesome page-title.</span>
-    <span class="wow fadeInUp" data-wow-delay="0.4s">your awesome home-title.</span>
-    <span class="wow fadeInUp" data-wow-delay="0.6s">description</span>
+    <span class="wow fadeInUp" data-wow-delay="0.2s">Welcome to my Blog!!!</span>
+    <span class="wow fadeInUp" data-wow-delay="0.4s">李唯閣 Vivian Lee</span>
+    <span class="wow fadeInUp" data-wow-delay="0.6s">修課相關、專案經驗、心情札記</span>
 </div>
 
     <ul class="post-list">
@@ -174,10 +192,10 @@ var _hmt = _hmt || [];
   <span>your awesome title ©
   
   
-    2018
+    2020
     -
   
-  2020
+  present
   <br>
   Powered by <a href="https://www.jekyll.com.cn/">Jekyll</a> | <a href="https://github.com/xukimseven/HardCandy-Jekyll">HardCandy-Jekyll</a></span>
 </footer>
